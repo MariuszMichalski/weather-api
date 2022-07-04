@@ -1,0 +1,13 @@
+
+16.11.2021, 19:53:14
+In Kraków there is 3.3°C, 97.9 % of humidity and preasure of 1026 hPa.
+23.11.2021, 19:21:50
+In Kraków there is 3.9°C, 80.6 % of humidity and preasure of 1027.3 hPa.
+23.11.2021, 20:59:08
+In Kraków there is 3.8°C, 83.0 % of humidity and preasure of 1027.3 hPa.
+28.11.2021, 17:26:32
+In Kraków there is 3.9°C, 95.8 % of humidity and preasure of 994.7 hPa.
+18.12.2021, 15:14:16
+In Kraków there is 2.6°C, 85.9 % of humidity and preasure of 1031.3 hPa.
+19.12.2021, 14:16:39
+In Kraków there is 5°C, 89.9 % of humidity and preasure of 1014.5 hPa.
